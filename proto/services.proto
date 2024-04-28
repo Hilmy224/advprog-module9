@@ -40,5 +40,5 @@ message TransactionResponse {
 
 message ChatMessage {
     string user_id = 1;
-    stringe message = 2;
+    string message = 2;
 }
